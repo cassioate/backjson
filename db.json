@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Cassio",
+      "email": "cassioate@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Claudio",
+      "email": "claudio@gmail.com"
+    },
+    {
+      "name": "Cassio Aragão Tessaro",
+      "email": "cassioate@hotmail.com",
+      "id": 3
+    }
+  ]
+}
