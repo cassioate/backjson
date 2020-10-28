@@ -1,19 +1,42 @@
 {
-  "users": [
+  "obras": [
     {
-      "id": 1,
-      "name": "Cassio",
-      "email": "cassioate@gmail.com"
+      "nome": "132123",
+      "descricao": "",
+      "dataPublicacao": "",
+      "dataExposicao": "",
+      "autores": [],
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Claudio",
-      "email": "claudio@gmail.com"
+      "nome": "",
+      "descricao": "",
+      "dataPublicacao": "132312",
+      "dataExposicao": "",
+      "autores": [],
+      "id": 2
+    }
+  ],
+  "autores": [
+    {
+      "nome": "123",
+      "email": "",
+      "sexo": "132",
+      "dataNascimento": "",
+      "pais": "",
+      "cpf": "",
+      "obras": [],
+      "id": 1
     },
     {
-      "name": "Cassio Aragão Tessaro",
-      "email": "cassioate@hotmail.com",
-      "id": 3
+      "nome": "",
+      "email": "",
+      "sexo": "123",
+      "dataNascimento": "",
+      "pais": "",
+      "cpf": "",
+      "obras": [],
+      "id": 2
     }
   ]
 }
